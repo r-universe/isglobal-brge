@@ -2,5 +2,11 @@
   {
     "package": "SNPassoc",
     "oncran": true
+  },
+  {
+    "package": "epimutacions"
+  },
+  {
+    "package": "methylclock"
   }
 ]
