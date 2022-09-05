@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SNPassoc"]
-	path = SNPassoc
-	url = https://github.com/isglobal-brge/snpassoc
-	shallow = true
-	registered = true
 [submodule "epimutacions"]
 	path = epimutacions
 	url = https://github.com/isglobal-brge/epimutacions
