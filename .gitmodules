@@ -8,8 +8,3 @@
 	url = https://github.com/isglobal-brge/epimutacions
 	shallow = true
 	registered = true
-[submodule "methylclock"]
-	path = methylclock
-	url = https://github.com/isglobal-brge/methylclock
-	shallow = true
-	registered = true
