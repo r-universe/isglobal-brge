@@ -1,5 +1,9 @@
 [
   {
+    "package": "SNPassoc",
+    "oncran": true
+  },
+  {
     "package": "epimutacions"
   },
   {
