@@ -1,12 +1,12 @@
 [
   {
+    "package": "epimutacions"
+  },
+  {
     "package": "methylclock"
   },
   {
     "package": "SNPassoc",
     "oncran": true
-  },
-  {
-    "package": "epimutacions"
   }
 ]
