@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SNPassoc"]
+	path = SNPassoc
+	url = https://github.com/isglobal-brge/snpassoc
 [submodule "epimutacions"]
 	path = epimutacions
 	url = https://github.com/isglobal-brge/epimutacions
 [submodule "methylclock"]
 	path = methylclock
 	url = https://github.com/isglobal-brge/methylclock
-[submodule "SNPassoc"]
-	path = SNPassoc
-	url = https://github.com/isglobal-brge/snpassoc
