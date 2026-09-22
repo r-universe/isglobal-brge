@@ -8,3 +8,6 @@
 [submodule "gcmrec"]
 	path = gcmrec
 	url = https://github.com/isglobal-brge/gcmrec
+[submodule "survrec"]
+	path = survrec
+	url = https://github.com/isglobal-brge/survrec
